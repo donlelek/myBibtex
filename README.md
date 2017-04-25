@@ -13,7 +13,7 @@ Additionally, I replaced all special characters with their latex-code, thus an `
 
 Example:
 
-```
+```tex
 @article{Price2016,
   title={Retrospective analysis of antibiotic treatments against piscirickettsiosis in farmed Atlantic salmon Salmo salar in Chile.},
   author={Price, D. and Stryhn, H. and S{\'a}nchez, J. and Ibarra, R. and Tello, A. and {St-Hilaire,} S.},
